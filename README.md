@@ -1,1 +1,1 @@
-# alx_rails_demo
+# This is a simple RoR web app
